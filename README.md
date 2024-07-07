@@ -62,11 +62,13 @@ npm run dev
 Technologies used in the project:
 
 
-<h2>Demo Image</h2>
-![image](https://github.com/nav2924/Creova/assets/141626335/4cc43d7f-0b6b-4df0-a437-effcaef87c08)
 
 
 *   Next JS
 *   TypeScript
 *   LiveBlocks
 *   Shadcn
+
+
+<h2>Demo Image</h2>
+![image](https://github.com/nav2924/Creova/assets/141626335/4cc43d7f-0b6b-4df0-a437-effcaef87c08)
