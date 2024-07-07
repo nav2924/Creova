@@ -4,7 +4,8 @@
 
 <p id="description">Minimalistic Version Of Figma Clone</p>
 
-  
+<h2>🔗Demo</h2> 
+<a>https://creova.vercel.app/</a>
   
 <h2>🧐 Features</h2>
 
@@ -70,7 +71,7 @@ Technologies used in the project:
 *   Shadcn
 
 
-<h2>Demo Image</h2>
+<h2>❤️Demo Image</h2>
 
 ![Screenshot 2024-07-07 163011](https://github.com/nav2924/Creova/assets/141626335/9a19e6c1-c508-46fc-b34e-3b5de3c22129)
 
