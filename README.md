@@ -71,4 +71,5 @@ Technologies used in the project:
 
 
 <h2>Demo Image</h2>
-![image](https://github.com/nav2924/Creova/assets/141626335/4cc43d7f-0b6b-4df0-a437-effcaef87c08)
+![Screenshot 2024-07-07 163011](https://github.com/nav2924/Creova/assets/141626335/9a19e6c1-c508-46fc-b34e-3b5de3c22129)
+
